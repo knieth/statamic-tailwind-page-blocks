@@ -1,0 +1,20 @@
+title: 'Page Builder'
+fields:
+  -
+    handle: page_builder
+    field:
+      collapse: false
+      previews: true
+      sets:
+        hero_card_with_background_image:
+          display: 'Hero - card with background image'
+          fields: {  }
+        feature_alternative_side-by-side_with_images:
+          display: 'Feature - Alternative side-by-side with images'
+          fields: {  }
+      display: 'Page Blocks'
+      type: replicator
+      icon: replicator
+      listable: hidden
+      instructions_position: above
+      visibility: visible
