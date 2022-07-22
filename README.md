@@ -13,10 +13,6 @@
 - Built with [TailwindCSS](https://tailwindcss.com)
 - Itty bitty [Alpine.js](https://github.com/alpinejs/alpine) for interactions
 
-## Screenshot
-
-
-
 ## Quick Start
 
 ### 1. Make a new user
