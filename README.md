@@ -13,6 +13,10 @@
 - Built with [TailwindCSS](https://tailwindcss.com)
 - Itty bitty [Alpine.js](https://github.com/alpinejs/alpine) for interactions
 
+## Screenshot
+
+![screencapture-statamic-tailwind-page-blocks-test-2022-07-28-14_04_48](https://user-images.githubusercontent.com/17942162/181432315-9b0342f0-c389-480f-aec3-d27f2176a1ab.png)
+
 ## Quick Start
 
 ### 1. Make a new user
